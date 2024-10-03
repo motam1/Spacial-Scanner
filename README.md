@@ -4,4 +4,4 @@ This project was my final submission for COMPENG 2DX3. The system is designed ar
 
 This project showcases the integration of **hardware design**, **serial communication**, and **3D data visualization** to create a functional time of flight spatial scanner. 
 
-A more detailed description of the project can be found in [Spatial Scanner Datasheet](Spatial Scanner Datasheet.pdf)
+A more detailed description of the project can be found in [Spatial Scanner Datasheet](Spatial_Scanner_Datasheet.pdf)
